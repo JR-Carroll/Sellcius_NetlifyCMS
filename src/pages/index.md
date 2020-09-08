@@ -19,32 +19,27 @@ description: All families need to make money!  A sometimes sad, and inescapable
 intro:
   blurbs:
     - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+      text: "We own, operate, and maintain several online properties (most of which
+        are in a rapid state of development). These properties are designed to
+        connect real and honest people with goods and services. "
     - image: /img/coffee-gear.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        As part of our mission, our #1 goal is to make sure that your experience
+        on our platforms is premium (whether you are a casual browser, serious
+        buyer/seller, or a paid premium user). Our tools help connect YOU with
+        others like you. 
     - image: /img/tutorials.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        Marketing technology at it's finest. From the inception to "today", our
+        team of marketing engineers is ramping up to continue to build more
+        online properties that bring people together in the marketplace. Rest
+        assured that one you see "today", won't be the same "tomorrow". 
     - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+      text: "Our platforms and properties are built on a foundation of respect and
+        trust. Our brand aims to make money - all companies do - but, we won't
+        take advantage of the people that make up our networks and commerce -
+        they are people too, with families, and just like our family we want the
+        best for them and yours. "
   heading: .
   description: .
 main:
