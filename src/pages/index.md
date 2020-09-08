@@ -1,21 +1,21 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: It all starts and ends with family
+image: /img/friends_family_hero.jpg
+heading: It all starts and ends with family
+subheading: Love. Thrive. Grow.
 mainpitch:
-  title: Why Kaldi
+  title: Who we are
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+    We are a family - first, last, and everything in between.  
+
+
+    Our goal is to provide a legacy for our little ones, connect other families together, and provide a fair, balanced, and transparent conversation between those in the market place.
+description: All families need to make money!  A sometimes sad, and inescapable
+  truth.  But, that doesn't mean we need to be taken advantage of, cheated, or
+  denied the information to make informed decisions.  From our family to yours,
+  we truely want to connect you with goods and services that you need and want
+  and be part of your journey (whether you are the customer or the seller).
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -45,12 +45,8 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  heading: .
+  description: .
 main:
   heading: Great coffee with no compromises
   description: >
